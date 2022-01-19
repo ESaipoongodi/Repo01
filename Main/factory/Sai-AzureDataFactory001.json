@@ -1,0 +1,9 @@
+{
+	"name": "Sai-AzureDataFactory001",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dd904d32-06bc-4235-b611-906b0e533af6",
+		"tenantId": "729b2b2a-b48c-49f4-81a3-c68b1953c055"
+	}
+}
